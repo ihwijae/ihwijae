@@ -6,7 +6,7 @@
 💻 I'm Back-End Developer :)<br>
 📬 lhj851@gmail.com<br>
 🍀 Thank you for visiting me.<br>
-<a href="https://ihwijae.github.io/resume-tailwind/"><strong>IHwijae web resume</strong></a></br>
+<a href="http://ihwijae.github.io/"><strong>IHwijae web resume</strong></a></br>
 
 
 <div align=center><h1>📚 Skills</h1></div>
