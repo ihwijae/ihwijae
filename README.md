@@ -4,10 +4,9 @@
 
 
 💻 I'm Back-End Developer :)<br>
-<p align="left">
-</p>
 
-# Skills :
+
+<div align=center><h1>📚 Skills</h1></div>
 
  
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br>
