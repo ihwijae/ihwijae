@@ -6,7 +6,6 @@
 💻 I'm Back-End Developer :)<br>
 📬 lhj851@gmail.com<br>
 🍀 Thank you for visiting me.<br>
-<a href="https://drive.google.com/file/d/1A1yS28wqmfVphgMmIvKV0s1K6q_rEruZ/view?usp=drive_link"><strong>notion pdf resume</strong></a></br>
 
 
 <div align=center><h1>📚 Skills</h1></div>
